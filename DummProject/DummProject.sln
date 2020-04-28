@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummProject", "DummProject\DummProject.csproj", "{068EA4BE-5274-4278-B628-1FE438928014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVCSide", "SVCSide\SVCSide.csproj", "{2D2B639C-B277-4A7B-8FAF-3D37BAD44499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALSide", "DALSide\DALSide.csproj", "{1446E22A-898A-4E0E-A65D-0D349650D4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068EA4BE-5274-4278-B628-1FE438928014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068EA4BE-5274-4278-B628-1FE438928014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068EA4BE-5274-4278-B628-1FE438928014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068EA4BE-5274-4278-B628-1FE438928014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2B639C-B277-4A7B-8FAF-3D37BAD44499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2B639C-B277-4A7B-8FAF-3D37BAD44499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2B639C-B277-4A7B-8FAF-3D37BAD44499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2B639C-B277-4A7B-8FAF-3D37BAD44499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1446E22A-898A-4E0E-A65D-0D349650D4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1446E22A-898A-4E0E-A65D-0D349650D4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1446E22A-898A-4E0E-A65D-0D349650D4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1446E22A-898A-4E0E-A65D-0D349650D4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69974E8-6B7F-4083-BF2E-19E6A4FE8083}
+	EndGlobalSection
+EndGlobal
